@@ -1,0 +1,35 @@
+{
+  "name": "alt-foco-input-modal",
+  "main": "dist/alt-foco-input-modal.min.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dsn-nimbus/alt-foco-input-modal.git",
+  "authors": [
+    "dsn-nimbus <ericdantas0@gmail.com>"
+  ],
+  "description": "desc",
+  "keywords": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    ".idea",
+    ".gitignore",
+    "node_modules",
+    "tests",
+    "src",
+    "LICENSE",
+    "bower_components",
+    "coverage",
+    "gulpfile.js",
+    "package.json",
+    "*.conf.js"
+  ],
+  "dependencies": {
+    "angular": "1.4.8"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.4.8"
+  },
+  "resolutions": {
+    "angular": "1.4.8"
+  }
+}
