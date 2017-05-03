@@ -10,9 +10,8 @@
 
         return {
           restrict: 'A',
-          scope: {},
           link: function(scope, element, attrs) {
-            element.off('shown.bs.modal', ng.noop);            
+            element.off('shown.bs.modal', ng.noop);
             element.on('shown.bs.modal', function() {
               element.find('input').eq(0).focus();
             });

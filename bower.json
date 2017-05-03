@@ -1,7 +1,7 @@
 {
   "name": "alt-foco-input-modal",
   "main": "dist/alt-foco-input-modal.min.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/dsn-nimbus/alt-foco-input-modal.git",
   "authors": [
     "dsn-nimbus <ericdantas0@gmail.com>"
